@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ipl/static/js/main.940224ad.js",
+    "main.js": "/ipl/static/js/main.b4ae6fcf.js",
     "index.html": "/ipl/index.html",
-    "main.940224ad.js.map": "/ipl/static/js/main.940224ad.js.map"
+    "main.b4ae6fcf.js.map": "/ipl/static/js/main.b4ae6fcf.js.map"
   },
   "entrypoints": [
-    "static/js/main.940224ad.js"
+    "static/js/main.b4ae6fcf.js"
   ]
 }
